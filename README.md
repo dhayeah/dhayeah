@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhayanidhi. 
-- Take a look at my projects.
+- Take a look at my repositories.
 
 <!---
 dhayeah/dhayeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
